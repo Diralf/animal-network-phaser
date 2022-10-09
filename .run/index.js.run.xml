@@ -1,5 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="--es-module-specifier-resolution=node" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/dist">
-    <method v="2" />
-  </configuration>
-</component>
