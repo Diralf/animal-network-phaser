@@ -1,3 +1,4 @@
+import '@diralf/animal-network';
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 
